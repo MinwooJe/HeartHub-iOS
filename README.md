@@ -13,6 +13,9 @@
 | ------------------------------------------------------------------------------------- | ---------------- | ------ |
 | 📜 [코딩 컨벤션](https://occipital-jellyfish-146.notion.site/d71a1e3a1f0640b8a90c98f529e162af?pvs=4) | 🎨 [디자인](https://www.figma.com/design/9dvR4DKky400WzZuKzRglg/HeartHuB?t=Uuh0iGdDL4T8dEkT-0) | 🏠 [팀 노션](https://occipital-jellyfish-146.notion.site/d868a53b16404b5b94b8b6befdf9de2b?v=5753a4fb157143058e530f787860269d&pvs=4)|
 
+## 📝 개발 일지
+ - [**중복 컴포넌트에 대한 캡슐화와 재사용**]()
+
 ## 📱 구현 화면
 ### 로그인 및 회원가입
 <img src="https://github.com/UMC-HeartHub/HeartHub-iOS/assets/59834326/e5c60143-9147-41c5-b258-aa0fc26ade3b" width=30%>
